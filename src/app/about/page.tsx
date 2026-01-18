@@ -1,4 +1,7 @@
 export default function AboutPage() {
+
+    // throw new Error ("Failed to load data")
+    
   return (
     <div>
         <h1> This is About page</h1>
